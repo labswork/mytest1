@@ -1,4 +1,4 @@
-#include <iostriem.h>
+#include <iostream.h>
 
 main(){
 	int a, b, sum;
