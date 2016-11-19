@@ -7,7 +7,11 @@ main(){
 	sum = a + b;
 	cout << sum
 	
-	jdgfdjgfdj
+	int main_test (int argc, char **argv)
+{
+	char buffer[10];
+	strcpy(buffer, argv[1]);
+}
 	
 }
 /*
