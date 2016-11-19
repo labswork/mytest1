@@ -1,4 +1,4 @@
-#include <iostriem>
+#include <iostriem.h>
 
 main(){
 	int a, b, sum;
