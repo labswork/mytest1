@@ -2,8 +2,8 @@
 
 main(){
 	int a, b, sum;
-	std::cout << a;
-	std::cout << b;
+	std::cin >> a;
+	std::cin >> b;
 	sum = a + b;
 	std::cout << sum;
 	
