@@ -5,7 +5,7 @@ main(){
 	cout << a;
 	cout << b;
 	sum = a + b;
-	cout << sum
+	cout << sum;
 	
 	int main_test (int argc, char **argv)
 {
