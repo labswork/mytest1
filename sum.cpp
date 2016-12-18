@@ -7,12 +7,6 @@ main(){
 	sum = a + b;
 	cout << sum;
 	
-	int main_test (int argc, char **argv)
-{
-	char buffer[10];
-	strcpy(buffer, argv[1]);
-}
-	
 }
 /*
 1. Я должен выполнить команду клон репозитория 
