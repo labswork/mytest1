@@ -2,10 +2,10 @@
 
 main(){
 	int a, b, sum;
-	cout << a;
-	cout << b;
+	std::cout << a;
+	std::cout << b;
 	sum = a + b;
-	cout << sum;
+	std::cout << sum;
 	
 }
 /*
